@@ -1,0 +1,3 @@
+Version control is important because it allows groups to work together more effectively. By tracking changes, checking work before publishing to a final version, and being able to revert to older versions.
+
+
